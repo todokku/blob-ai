@@ -1,26 +1,17 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><https://listimg.pinclipart.com/picdir/s/25-257394_coffee-drink-can-frog-leaf-green-blob-clipart.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://www.clker.com/cliparts/1/q/O/0/R/7/green-blob-hi.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  blob-ai
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Browser voice-controlled personal AI assistant. Fully customizable, to your style.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://github.com/bereketsemagn/blob-ai/issues"><img src="https://img.shields.io/github/license/bereketsemagn/blob-ai" alt="Issues"></a>
+  <a href="https://github.com/bereketsemagn/blob-ai/issues"><img src="https://img.shields.io/github/issues/bereketsemagn/blob-ai" alt="Issues"></a>
 </p>
 
 <p align="center">
