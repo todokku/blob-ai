@@ -1,4 +1,4 @@
-var ai = document.getElementById("zucc");
+var ai = document.getElementById("blob");
 const PREFIX = "hey blob";
 var recognition = new webkitSpeechRecognition();
 recognition.continuous = true;
@@ -10,9 +10,9 @@ recognition.onresult = function(event) {
 for (var i = event.resultIndex; i < event.results.length; ++i) {
       if (!event.results[i][0].transcript.trim().startsWith(PREFIX)) return;
       $('#listen').html(event.results[i][0].transcript.toLowerCase());
-      $('#zucc').css("animation","listen 1s infinite");
+      $('#blob').css("animation","listen 1s infinite");
       if (event.results[i].isFinal) {
-      $('#zucc').css("animation","none");
+      $('#blob').css("animation","none");
       var command = event.results[i][0].transcript.substring(PREFIX.length).split(" ");
       if(!command[1]){ $('#everything').html("Hey! How may I assist you?"); return;}
       var ytString = event.results[i][0].transcript.substring(PREFIX.length).slice("9");
