@@ -10,15 +10,13 @@
 <h4 align="center">Browser voice-controlled personal AI assistant. Fully customizable, to your style.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#download">How It Works</a> •
+  <a href="#related">Usage</a> •
+  <a href="#license">Contributing</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](assets/demo.gif)
 
 ## Key Features
 
