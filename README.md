@@ -10,11 +10,6 @@
 <h4 align="center">Browser voice-controlled personal AI assistant. Fully customizable, to your style.</h4>
 
 <p align="center">
-  <a href="https://github.com/bereketsemagn/blob-ai/issues"><img src="https://img.shields.io/github/license/bereketsemagn/blob-ai" alt="Issues"></a>
-  <a href="https://github.com/bereketsemagn/blob-ai/issues"><img src="https://img.shields.io/github/issues/bereketsemagn/blob-ai" alt="Issues"></a>
-</p>
-
-<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
