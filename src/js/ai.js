@@ -39,7 +39,7 @@ for (var i = event.resultIndex; i < event.results.length; ++i) {
       break;
 
       default :
-      $('#everything').html("sorry i didn't get it, try agian");
+      $('#everything').html("error");
       break;
       }
     }
