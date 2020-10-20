@@ -16,7 +16,7 @@
   <a href="#license">Contributing</a>
 </p>
 
-![screenshot](assets/demo.gif)
+<img src="assets/demo.gif" alt="Markdownify" width="1000"></a>
 
 ## Key Features
 
